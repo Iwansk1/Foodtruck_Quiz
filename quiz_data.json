@@ -1,0 +1,57 @@
+{
+    "questions": [
+      {
+        "question": "What’s your go-to type of humor?",
+        "choices": [
+          {"text": "Smooth and Effortless", "value": 3 },
+          {"text": "Bold and Flavorful", "value": 4 },
+          {"text": "Classic and Tangy ", "value": 2 },
+          {"text": "Hot and Spicy", "value": 5 }
+        ]
+      },
+      {
+        "question": "How would you describe yourself in social situations?",
+        "choices": [
+          {"text": "Leaving a lasting impression", "value": 4 },
+          {"text": "Naughty and unpredictable", "value": 1 },
+          {"text": "Cool, calm and collected", "value": 3 },
+          {"text": "Bringing the heat and energy", "value": 5 }
+        ]
+      },
+      {
+        "question": "Which movie genre do you enjoy the most?",
+        "choices": [
+          {"text": "Classic comedies", "value": 2 },
+          {"text": "Quirky and unpredictable comedies", "value": 1 },
+          {"text": "Thrillers and adventurous movies", "value": 5 },
+          {"text": "Action-packed films with a twist", "value": 4 }
+        ]
+      },
+      {
+        "question": "What's your preferred way to spend a Saturday night?",
+        "choices": [
+          {"text": "Attending a comedy show or watching stand-up comedy", "value": 2 },
+          {"text": "Going to a lively social event or party", "value": 4 },
+          {"text": "Organizing a prank-filled game night with friends", "value": 1 },
+          {"text": "Relaxing with a good book or a movie at home", "value": 3 }
+        ]
+      },
+      {
+        "question": "What's your preferred style of dressing",
+        "choices": [
+          {"text": "Casual with a touch of humor", "value": 2 },
+          {"text": "Playful and unconventional, embracing quirky fashion", "value": 1 },
+          {"text": "Edgy and attention-grabbing, always making a statement", "value": 5 },
+          {"text": "Classic and well-coordinated", "value": 3 }
+        ]
+      }
+    ],
+    "personalities": [
+      { "minValue": 0, "maxValue": 10, "image": "Images/Peanut.png", "message": "Peanut Sauce"},
+      { "minValue": 11, "maxValue": 14, "image": "Images/Ketchup.png", "message": "Ketchup Comedian. Always ready for a saucy joke, this person's humour is as classic as the condiment itself They're the ketchup on the comedy hotdog of life, bringing a tangy twist to every punchline."},
+      { "minValue": 15, "maxValue": 18, "image": "Images/Mayo.png", "message": "Mayonnaise Maestro. With a personality as smooth as a well-made mayo, this individual glides through life effortlessly They're the cool and creamy operator who turns mundane moments into a deliciously entertaining experience."},
+      { "minValue": 19, "maxValue": 22, "image": "Images/Peanut.png", "message": " Garlic Mayonnaise"},
+      { "minValue": 23, "maxValue": 34, "image": "Images/Peanut.png", "message": "Sriracha Mayonnaise"}
+    ]
+  }
+  
